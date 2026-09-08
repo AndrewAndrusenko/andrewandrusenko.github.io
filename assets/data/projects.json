@@ -185,6 +185,13 @@
           "En": "Easily connecting to other applications. And more..",
           "Ru": "Легкое подключение к другим приложениям. И многое другое..."
         }
+      ],
+      "slides": [
+        "assets/images/auth_slide0.jpg",
+        "assets/images/auth_slide1.jpg",
+        "assets/images/auth_slide2.jpg",
+        "assets/images/auth_slide3.jpg",
+        "assets/images/auth_slide4.jpg"
       ]
     }
   ]
