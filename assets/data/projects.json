@@ -178,6 +178,14 @@
       "icon": "lock-password-fill",
       "bullets": [
         {
+          "En": "Oboarding, administrative controls, credential restoration, and reactive session synchronization",
+          "Ru": "Онбординг пользователей, административный контроль, восстановление учетных данных и реактивная синхронизация сессий"
+        },
+        {
+          "En": "Using a secure, cookie-encapsulated JWT architecture driven by modern client-side security best practices",
+          "Ru": "Использование защищенной архитектуры JWT, инкапсулированные в куки, спроектированной по современным стандартам безопасности"
+        },
+        {
           "En": "The access and refresh token pattern",
           "Ru": "Паттерн использования access- и refresh-токенов"
         },
